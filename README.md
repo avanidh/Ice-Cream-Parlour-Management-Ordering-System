@@ -4,19 +4,19 @@ The owner can store and further analyse the sold ice cream.
 These system provides the total bill with taxes and service charge after selecting particular order ice cream.
 
 PROJECT SCOPE
-On the spot billing
-easy to take records 
-calculate total directly
-receipt generation  
-ordering over the phone  
-Easy to manage costumer orders
+On the spot billing.
+easy to take records. 
+calculate total directly.
+receipt generation.  
+ordering over the phone  .
+Easy to manage costumer orders.
 Generating unique bill number for every costumer.
 
 TECHNOLOGY USED
-Python
-MySql
-PIL Module
-Invoice Generator
+Python,
+MySql,
+PIL Module,
+Invoice Generator,
 Messagebox
 
 
